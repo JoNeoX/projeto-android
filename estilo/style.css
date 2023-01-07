@@ -167,10 +167,8 @@ aside > p {
 
 aside > ul {
     list-style-type: '\2714\00A0\00A0';
-    margin: 5px 5px;
     columns: 2;
     list-style-position: inside;
-    width: 100%;
 }
 
 footer {
