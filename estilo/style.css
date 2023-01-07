@@ -170,7 +170,7 @@ aside > ul {
     margin: 5px 5px;
     columns: 2;
     list-style-position: inside;
-    width: 50%;
+    width: 100%;
 }
 
 footer {
